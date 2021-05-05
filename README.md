@@ -1,1 +1,2 @@
 # -
+https://accounts.google.com/o/oauth2/auth/identifier?access_type=offline&client_id=724652696919-10okkcundab0mm83jul7nlitkrq76htu.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fgbot.integrations.telegram.org%2Fauth%2Fgmail&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.compose%20https%3A%2F%2Fmail.google.com%2F%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=ftse5mf-crmtjqvz&approval_prompt=force&flowName=GeneralOAuthFlow
